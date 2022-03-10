@@ -39,12 +39,12 @@
 }*/
 
 /* Chat, Friends List, Mutual Friends List (Hiro) (Admin)*/
-[data-author-id="688520094162485262"] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id="688520094162485262"] + .header-1dhDWV::before,
-[data-user-id="688520094162485262"] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id="688520094162485262"] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="688520094162485262"] .header-2jRmjb .username-h_Y3Us::after,
+[data-user-id="688520094162485262"] + .header-1dhDWV::after,
+[data-user-id="688520094162485262"] + .text-3j8t_e .username-3JLfHz::after,
+[data-user-id="688520094162485262"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
-            content: "HURENSOHN";
+            content: "NV Admin";
 	    color: currentcolor;
 	    text-shadow: 0 0 2px currentcolor;
 	    border: 1px solid;
@@ -64,10 +64,10 @@
 }*/
 
 /* Chat, Friends List, Mutual Friends List (CorruptedVeit) (Friend)*/
-[data-author-id="268774893351337986"] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id="268774893351337986"] + .header-1dhDWV::before,
-[data-user-id="268774893351337986"] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id="268774893351337986"] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="268774893351337986"] .header-2jRmjb .username-h_Y3Us::after,
+[data-user-id="268774893351337986"] + .header-1dhDWV::after,
+[data-user-id="268774893351337986"] + .text-3j8t_e .username-3JLfHz::after,
+[data-user-id="268774893351337986"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
             content: "Friend";
 	    color: currentcolor;
@@ -90,10 +90,10 @@
 
 
 /* Chat, Friends List, Mutual Friends List (Kookie) (VIP)*/
-[data-author-id="811982875284865044"] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id="811982875284865044"] + .header-1dhDWV::before,
-[data-user-id="811982875284865044"] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id="811982875284865044"] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="811982875284865044"] .header-2jRmjb .username-h_Y3Us::after,
+[data-user-id="811982875284865044"] + .header-1dhDWV::after,
+[data-user-id="811982875284865044"] + .text-3j8t_e .username-3JLfHz::after,
+[data-user-id="811982875284865044"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
 		content: "VIP";
 		color: currentcolor;
@@ -120,13 +120,13 @@
 		padding: 0 5px;
 }*/
 
-/* Chat, Friends List, Mutual Friends List (Jubo) (VIP)*/
-[data-author-id="549568206872903680"] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id="549568206872903680"] + .header-1dhDWV::before,
-[data-user-id="549568206872903680"] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id="549568206872903680"] + .listName-PwbeHL .username-3JLfHz::before {
+/* Chat, Friends List, Mutual Friends List (Jubo) (Friend)*/
+[data-author-id="549568206872903680"] .header-2jRmjb .username-h_Y3Us::after,
+[data-user-id="549568206872903680"] + .header-1dhDWV::after,
+[data-user-id="549568206872903680"] + .text-3j8t_e .username-3JLfHz::after,
+[data-user-id="549568206872903680"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
-		content: "VIP";
+		content: "Friend";
 		color: currentcolor;
 		text-shadow: 0 0 2px currentcolor;
 		border: 1px solid;
