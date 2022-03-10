@@ -8,12 +8,12 @@
 
 
 /* Chat, Friends List, Mutual Friends List (xImGaming) (Admin)*/
-[data-author-id="907028319046885436"] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id="907028319046885436"] + .header-1dhDWV::before,
-[data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="907028319046885436"] .header-2jRmjb .username-h_Y3Us::after,
+[data-user-id="907028319046885436"] + .header-1dhDWV::after,
+[data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::after,
+[data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
-	    content: "Krasser Dude";
+	    content: "NV Admin";
 	    color: currentcolor;
 	    text-shadow: 0 0 2px currentcolor;
 	    border: 1px solid;
