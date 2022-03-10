@@ -8,10 +8,10 @@
 
 
 /* Chat, Friends List, Mutual Friends List (xImGaming) (Admin)*/
-[data-author-id=var(--xImGaming)] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id= var(--xImGaming)] + .header-1dhDWV::before,
-[data-user-id=var(--xImGaming)] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id=var(--xImGaming)] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="907028319046885436"] .header-2jRmjb .username-h_Y3Us::before,
+[data-user-id="907028319046885436"] + .header-1dhDWV::before,
+[data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::before,
+[data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::before {
 	content: "";
 	    content: "Admin";
 	    color: rgba(255, 200, 0, 1);
@@ -25,7 +25,7 @@
 }
 
 /* Small user popout (xImGaming) (Admin)*/
-[aria-label=var(--xImGaming)].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="907028319046885436"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
             padding: 1px 8px 0px 8px;
@@ -33,10 +33,10 @@
 }
 
 /* Chat, Friends List, Mutual Friends List (Hiro) (Admin)*/
-[data-author-id=var(--Hiro)] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id= var(--Hiro)] + .header-1dhDWV::before,
-[data-user-id=var(--Hiro)] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id=var(--Hiro)] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="688520094162485262"] .header-2jRmjb .username-h_Y3Us::before,
+[data-user-id="688520094162485262"] + .header-1dhDWV::before,
+[data-user-id="688520094162485262"] + .text-3j8t_e .username-3JLfHz::before,
+[data-user-id="688520094162485262"] + .listName-PwbeHL .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
             padding: 0px 7px 0px 7px;
@@ -44,7 +44,7 @@
 }
 
 /* Small user popout (Hiro) (Admin)*/
-[aria-label=var(--Hiro)].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="688520094162485262"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
             padding: 1px 8px 0px 8px;
@@ -52,10 +52,10 @@
 }
 
 /* Chat, Friends List, Mutual Friends List (CorruptedVeit) (Friend)*/
-[data-author-id=var(--Veit)] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id=var(--Veit)] + .header-1dhDWV::before,
-[data-user-id=var(--Veit)] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id=var(--Veit)] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="268774893351337986"] .header-2jRmjb .username-h_Y3Us::before,
+[data-user-id="268774893351337986"] + .header-1dhDWV::before,
+[data-user-id="268774893351337986"] + .text-3j8t_e .username-3JLfHz::before,
+[data-user-id="268774893351337986"] + .listName-PwbeHL .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/lego.gif") center/100% no-repeat;
             padding: 0px 7px 0px 7px;
@@ -63,7 +63,7 @@
 }
 
 /* Small user popout (CorruptedVeit) (Friend)*/
-[aria-label=var(--Veit)].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="268774893351337986"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/lego.gif") center/100% no-repeat;
             padding: 1px 8px 0px 8px;
@@ -72,10 +72,10 @@
 
 
 /* Chat, Friends List, Mutual Friends List (Kookie) (VIP)*/
-[data-author-id=var(--Kookie)] .header-2jRmjb .username-h_Y3Us::before,
-[data-user-id= var(--Kookie)] + .header-1dhDWV::before,
-[data-user-id=var(--Kookie)] + .text-3j8t_e .username-3JLfHz::before,
-[data-user-id=var(--Kookie)] + .listName-PwbeHL .username-3JLfHz::before {
+[data-author-id="811982875284865044"] .header-2jRmjb .username-h_Y3Us::before,
+[data-user-id="811982875284865044"] + .header-1dhDWV::before,
+[data-user-id="811982875284865044"] + .text-3j8t_e .username-3JLfHz::before,
+[data-user-id="811982875284865044"] + .listName-PwbeHL .username-3JLfHz::before {
 	content: "";
 		content: "VIP";
 		color: rgba(255, 200, 0, 1);
@@ -89,7 +89,7 @@
 }
 
 /* Small user popout (Kookie) (VIP)*/
-[aria-label=var(--Kookie)].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="811982875284865044"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
 		content: "VIP";
 		color: rgba(255, 200, 0, 1);
