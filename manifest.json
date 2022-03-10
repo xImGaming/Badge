@@ -1,0 +1,8 @@
+{
+    "name": "Badge",
+    "version": "0.1",
+    "author": "xImGaming#0207",
+    "description": "Just for Testing Purposes!",
+    "license": "GNU",
+    "theme": "theme.scss"
+}
