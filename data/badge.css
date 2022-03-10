@@ -14,22 +14,28 @@
 [data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::before {
 	content: "";
 	    content: "Admin";
-	    color: rgba(255, 200, 0, 1);
+	    color: rgba(255, 0, 0, 1);
 	    text-shadow: 0 0 2px currentcolor;
 	    border: 1px solid;
 	    border-radius: 6px;
-	    margin-left: 8px;
+	    margin-right: 5px;
 	    background-color: rgba(255,255,255,0.07);
 	    font-size: 10px;
 	    padding: 0 5px;
 }
 
 /* Small user popout (xImGaming) (Admin)*/
-[aria-label="907028319046885436"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="xImGaming"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
-            background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
-            padding: 1px 8px 0px 8px;
-            margin-right: 6px;
+            content: "Admin";
+	    color: rgba(255, 0, 0, 1);
+	    text-shadow: 0 0 2px currentcolor;
+	    border: 1px solid;
+	    border-radius: 6px;
+	    margin-right: 5px;
+	    background-color: rgba(255,255,255,0.07);
+	    font-size: 10px;
+	    padding: 0 5px;
 }
 
 /* Chat, Friends List, Mutual Friends List (Hiro) (Admin)*/
@@ -44,7 +50,7 @@
 }
 
 /* Small user popout (Hiro) (Admin)*/
-[aria-label="688520094162485262"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="Hiro"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
             padding: 1px 8px 0px 8px;
@@ -63,7 +69,7 @@
 }
 
 /* Small user popout (CorruptedVeit) (Friend)*/
-[aria-label="268774893351337986"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="Veit"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
             background: url("https://dl.noverado.de/images/lego.gif") center/100% no-repeat;
             padding: 1px 8px 0px 8px;
@@ -82,21 +88,21 @@
 		text-shadow: 0 0 2px currentcolor;
 		border: 1px solid;
 		border-radius: 6px;
-		margin-left: 8px;
+		margin-right: 5px;
 		background-color: rgba(255,255,255,0.07);
 		font-size: 10px;
 		padding: 0 5px;
 }
 
 /* Small user popout (Kookie) (VIP)*/
-[aria-label="811982875284865044"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
+[aria-label="Nezuko-Chan"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
 		content: "VIP";
 		color: rgba(255, 200, 0, 1);
 		text-shadow: 0 0 2px currentcolor;
 		border: 1px solid;
 		border-radius: 6px;
-		margin-left: 8px;
+		margin-right: 5px;
 		background-color: rgba(255,255,255,0.07);
 		font-size: 10px;
 		padding: 0 5px;
