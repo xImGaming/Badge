@@ -4,7 +4,7 @@
 [data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::before,
 [data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::before {
 	content: "";
-            background: url("https://dl.noverado.de/images/lego.gif") center/100% no-repeat;
+            background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
             padding: 0px 7px 0px 7px;
             margin-right: 6px;
 }
@@ -12,7 +12,7 @@
 /* Small user popout (xImGaming)*/
 [aria-label="xImGaming"].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
-            background: url("https://dl.noverado.de/images/lego.gif") center/100% no-repeat;
+            background: url("https://dl.noverado.de/images/pink.gif") center/100% no-repeat;
             padding: 1px 8px 0px 8px;
             margin-right: 6px;
 }
