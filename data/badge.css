@@ -13,15 +13,14 @@
 [data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::after,
 [data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
-	    color: white;
 	    content: "FOUNDER";
-	    border-style: diskret;
+	    color: white;
 	    border-radius: 3px;
 	    margin-left: 5px;
 	    background-color: rgb(184, 0, 86);
 	    font-size: 10px;
   	    font-weight: 500;
-	    padding: 1 5px;
+	    padding: 0 5px;
 }
 
 /* Small user popout (xImGaming) (Admin)*/
