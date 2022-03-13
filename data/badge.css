@@ -13,8 +13,8 @@
 [data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::after,
 [data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::after {
 	content: "";
-	    content: "FOUNDER";
 	    color: white;
+	    content: "FOUNDER";
 	    color: rgb(184, 0, 86);
 	    border-radius: 3px;
 	    margin-left: 5px;
