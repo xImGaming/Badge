@@ -35,10 +35,7 @@
 }*/
 
 /* Chat, Friends List, Mutual Friends List (Hiro) (STAFF)*/
-[data-author-id="688520094162485262"] .header-2jRmjb .username-h_Y3Us::after,
-[data-user-id="688520094162485262"] + .header-1dhDWV::after,
-[data-user-id="688520094162485262"] + .text-3j8t_e .username-3JLfHz::after,
-[data-user-id="688520094162485262"] + .listName-PwbeHL .username-3JLfHz::after {
+.username-h_Y3Us[style="color: rgb(0, 119, 184);"]::after {
 	content: "";
 	    content: "STAFF";
 	    color: white;
@@ -59,10 +56,7 @@
 }*/
 
 /* Chat, Friends List, Mutual Friends List (CorruptedVeit) (Friend)*/
-[data-author-id="268774893351337986"] .header-2jRmjb .username-h_Y3Us::after,
-[data-user-id="268774893351337986"] + .header-1dhDWV::after,
-[data-user-id="268774893351337986"] + .text-3j8t_e .username-3JLfHz::after,
-[data-user-id="268774893351337986"] + .listName-PwbeHL .username-3JLfHz::after {
+.username-h_Y3Us[style="color: rgb(184, 147, 0);"]::after {
 	content: "";
 	    content: "VIP";
 	    color: white;
