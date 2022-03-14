@@ -8,7 +8,7 @@
 
 
 /* Chat, Friends List, Mutual Friends List (xImGaming) (Founder)*/
-.avatar-2e8lTP[src*="907028319046885436"]+h2 .username-h_Y3Us[style="color: rgb(230, 113, 90);"]::after {
+.avatar-2e8lTP[src*="907028319046885436"]+h2 .username-h_Y3Us[style="color: rgb(184, 0, 86);"]::after {
 	content: "";
 	    content: "FOUNDER";
 	    color: white;
