@@ -8,10 +8,7 @@
 
 
 /* Chat, Friends List, Mutual Friends List (xImGaming) (Founder)*/
-[data-author-id="907028319046885436"] .header-2jRmjb .username-h_Y3Us::after,
-[data-user-id="907028319046885436"] + .header-1dhDWV::after,
-[data-user-id="907028319046885436"] + .text-3j8t_e .username-3JLfHz::after,
-[data-user-id="907028319046885436"] + .listName-PwbeHL .username-3JLfHz::after {
+.avatar-2e8lTP[src*="907028319046885436"]+h2 .username-h_Y3Us[style="color: rgb(230, 113, 90);"]::after {
 	content: "";
 	    content: "FOUNDER";
 	    color: white;
