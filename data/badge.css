@@ -1,9 +1,9 @@
 /* Founder */
-.avatar-2e8lTP[src*="907028319046885436"]+h2 .username-h_Y3Us[style="color: rgb(184, 0, 86);"]::after {
+.avatar-2e8lTP[src*="907028319046885436"]+h2 .username-h_Y3Us[style="color: rgb(230, 113, 90);"]::after {
 	content: "";
 	    position: relative;
 	    content: "Founder";
-	    background: rgb(184, 0, 86);
+	    background: rgb(230, 113, 90);
 	    border-radius: 3px;
 	    color: white;
             padding: 1px 5px 1px 5px;
