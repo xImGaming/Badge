@@ -47,7 +47,7 @@
 }
 
 /* LUA */
-.avatar-2e8lTP[src*="270135723816910851"]+h2.username-h_Y3Us[style="color: rgb(255, 0, 170);"]::after {
+.avatar-2e8lTP[src*="270135723816910851"]+h2::after {
 	content: "";
 	    position: relative;
 	    content: "Friend";
